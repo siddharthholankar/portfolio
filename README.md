@@ -1,55 +1,115 @@
-## Developer Portfolio Landing Page Template
+# 🌟 Siddharth Holankar - Portfolio
 
-### ⚠️ Project Discontinued ⚠️
+Welcome to my portfolio repository! This repository hosts my **professional portfolio website**, showcasing my **technical expertise, industry experience, and analytics-driven projects** in **business analytics, data science, and machine learning**.
 
-**Note:** This project is no longer maintained and has been discontinued. No further updates or support will be provided. Feel free to fork the repository and make any necessary changes on your own.
+📌 **Open to full-time opportunities in Data Science, Business Analytics, and Machine Learning roles.**
 
 ---
 
-### Introduction
+## 🏫 Education
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+### **Arizona State University** *(Aug 2024 – May 2025, Expected)*
+📍 Tempe, Arizona  
+**Master of Science in Business Analytics** *(GPA: 4.0/4.0)*  
+- Specialization in **Big Data Analytics, Predictive Modeling, and Business Intelligence**.
+- Coursework includes **Machine Learning, Time-Series Analysis, Optimization Techniques, and Data Visualization**.
 
-### Installation
+### **MIT World Peace University** *(Jun 2019 – Apr 2022)*
+📍 Pune, India  
+**Bachelor of Business Administration in International Business** *(GPA: 9.1/10.0)*  
+- Focus on **strategic decision-making, operations management, and global market analytics**.
 
-See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
-___
+---
 
-You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
+## 🛠️ Technical Skills
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **Programming:** Python, SQL, R, Spark  
+- **Analytics & BI Tools:** Power BI, Tableau, Excel, SQL Workbench, Minitab, Scikit-learn  
+- **Data Science & AI:** Machine Learning, Statistical Modeling, Forecasting, A/B Testing, Time-Series Analysis, ETL  
+- **Big Data & Cloud:** AWS Redshift, S3, DynamoDB, Data Warehousing  
+- **Visualization & Reporting:** KPI Dashboards, Business Metrics, CRISP-DM, Agile Analytics  
 
-### Markdown
+---
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## 💼 Professional Experience
 
-```markdown
-Syntax highlighted code block
+### **DHL Supply Chain** *(Jan 2025 – Present)*
+📍 Tempe, Arizona  
+**Business Analyst Intern**
+- Analyzed **logistics and supply chain data** to enhance **out-of-office-hours (OOH) network operations**, improving emergency delivery response time by **30%**.
+- Designed **real-time monitoring dashboards** using **Power BI and Tableau** to track shipment performance.
+- Implemented **geocoding-based machine learning models** to **automate missing dataset values**, increasing data accuracy by **30%**.
+- Built **predictive analytics models** to optimize warehouse and courier allocation, reducing shipment delays.
 
-# Header 1
-## Header 2
-### Header 3
+---
 
-- Bulleted
-- List
+### **Morningstar (PitchBook)** *(Dec 2022 – Jul 2024)*
+📍 Mumbai, India  
+**Data Research Analyst**
+- Conducted in-depth research on **3,500+ early-stage companies**, identifying investment patterns and market trends.
+- Delivered **50+ analytical reports** for **major investment banks** (JP Morgan, BlackRock, Goldman Sachs, Barclays) to refine investment strategies.
+- Evaluated **2,000+ venture-backed companies**, generating financial projections and insights for IPO planning.
+- Developed **automated ETL pipelines using SQL and Power BI**, reducing daily reporting time by **25%**.
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### **FUEL (Friends Union for Energizing Lives)** *(Dec 2021 – Nov 2022)*
+📍 Pune, India  
+**Business Intelligence Analyst**
+- Engineered **data pipelines and optimized ETL processes using SQL**, reducing **data retrieval time by 60%**.
+- Automated **Excel-based reporting dashboards**, reducing **report generation time by 30%** and enhancing decision-making.
+- Designed **custom dashboards** for corporate clients such as **HDFC Bank, Capgemini, Citi, Government of India, DBS, and Standard Chartered**.
+- Conducted analytics on **Corporate Social Responsibility (CSR) impact**, enabling **data-driven strategic decisions**.
 
-[Link](url) and ![Image](src)
-```
+---
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## 🚀 Projects
 
-### Roadmap
+### **🔹 Optimizing Employee Scheduling** *(Oct 2024 – Dec 2024)*
+**Python | Excel Solver | Linear Programming | Data Analysis**  
+- Developed a **dynamic employee scheduling model** for a fast-casual restaurant, optimizing shifts to **reduce labor costs**.
+- Automated **shift allocation** based on employee availability and station requirements, minimizing errors by **30%**.
+- Applied **linear programming** to ensure **full shift coverage while reducing excess labor hours**.
 
-This project has been discontinued and is no longer actively maintained. No new features or fixes will be added. If you're interested in contributing, feel free to fork the repository and customize it to your needs.
-___
+---
 
-### References
+### **🔹 Analyzing Unstructured Data** *(Aug 2024 – Sep 2024)*
+**Data Cleaning | Python | Pandas | Data Visualization**  
+- Processed and analyzed **unstructured movie revenue data**, identifying key revenue contributors in the French box office.
+- Discovered that **the top 5 movies accounted for 40% of total box office revenue**.
+- Conducted **trend analysis**, revealing a **20% seasonal revenue increase during summer months**.
 
-[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
-<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
-<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
+---
+
+## 🏆 Certifications
+
+1. **Data Analyst Associate** – *DataCamp (Issued Oct 2024, Expires Oct 2026)*  
+   - Credential ID: **DAA0019096408495**  
+   - **Skills:** SQL  
+
+2. **Introduction to SQL Server** – *DataCamp (Issued Oct 2024)*  
+   - Credential ID: **36,562,970**  
+   - **Skills:** SQL  
+
+3. **Cybersecurity Awareness: Social Engineering** – *LinkedIn (Issued Dec 2023)*  
+
+4. **Certificate Program in Financial Markets Analysis and Reporting** – *BSE India (Issued Jan 2023, Expires Jan 2033)*  
+   - Credential ID: **MS2023MUM10436**  
+   - **Skills:** Data Collection, Technical Data Analysis, Economic Data Analysis, Market Research, Big Data Analytics, Financial Markets, Data Analysis  
+
+5. **Morningstar ACE IT Program** – *upGrad for Business (Issued Dec 2022)*  
+
+6. **Kotak Securities Program** – *Kotak Securities (Issued Oct 2021)*  
+
+7. **Virtual Experience Program Participant** – *Citi (Issued Mar 2021)*  
+   - Credential ID: **auzkWsuZM8tLybvRL**  
+   - **Skills:** Investment Portfolios, Investment Research, Investment Banking, Investment Valuation, Equities  
+
+---
+
+## 🌎 Let's Connect!
+📧 **Email:** [sholanka@asu.edu](mailto:sholanka@asu.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/sholankar/](https://linkedin.com/in/sholankar/)  
+📂 **Portfolio Website:** [siddharthholankar.github.io](https://siddharthholankar.github.io)  
+
+---
